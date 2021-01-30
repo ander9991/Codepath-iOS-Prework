@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         let total = bill + tip
         
         // Update tip amount label
-        tipAmountLabel.text = String(format: "$5.2f", tip)
+        tipAmountLabel.text = String(format: "$%.2f", tip)
         // JUpdate total amount
         totalLabel.text = String(format: "$%.2f", total)
     }

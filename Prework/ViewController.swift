@@ -33,7 +33,6 @@ class ViewController: UIViewController {
         tipAmountLabel.text = String(format: "$%.2f", tip)
         // JUpdate total amount
         totalLabel.text = String(format: "$%.2f", total)
-        // End of file
     }
     
 

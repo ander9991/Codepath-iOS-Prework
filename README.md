@@ -1,10 +1,10 @@
-# Pre-work - TipCalculator
+# Pre-work - *Name of App Here*
 
 TipCalculator is a tip calculator application for iOS.
 
 Submitted by: Steven Granaturov
 
-Time spent: 2 hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/b2s9V90' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/eFscGbG.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2021 [Steven Granaturov]
+    Copyright [2021] [Steven Granaturov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
